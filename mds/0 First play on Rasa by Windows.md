@@ -46,7 +46,8 @@
 # 2021-04-02 12:56:30 INFO     root  - Rasa server is up and running.
 # Bot loaded. Type a message and press enter (use '/stop' to exit):
 ```
-![first_talk]("https://github.com/yanhuibin315/PlayRasaLocally/blob/main/imgs/first_talk.png")
+![first_talk](https://github.com/yanhuibin315/PlayRasaLocally/blob/main/imgs/first_talk.png?raw=true)
+
 5. And then you can open your project locally.<br>
 Project Path (Maybe a little different in other system): ```C:\Users\User\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\bingo\rasa\hello_rasa\```<br>
 You can show like this.
